@@ -44,9 +44,6 @@ return {
           "markdown",
         },
       },
-      volar = {
-        filetypes = { "typescript", "javascript", "javascriptreact", "typescriptreact", "vue", "json" },
-      },
     },
     handlers = {},
     autocmds = {
